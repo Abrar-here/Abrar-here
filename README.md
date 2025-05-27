@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abrar Ahmed
 
-I'm an **undergraduate Computer Science student** passionate about **Cloud Computing** ☁️, **Machine Learning** 🤖, and **3D Graphics/Game Development** 🎮. I'm on a mission to build cool, scalable, and intelligent tech—one project at a time.
+I'm an **undergraduate Computer Science student** passionate about **Cloud Computing** ☁️, **Machine Learning** 🤖, and **Game Development** 🎮. I'm on a mission to build cool, scalable, and intelligent tech—one project at a time.
 
 ---
 
