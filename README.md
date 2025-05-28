@@ -32,8 +32,6 @@ I'm an **undergraduate Computer Science student** passionate about **Cloud Compu
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Abrar-here" alt="Abrar-here" /></a> </p>
 
 
-### 🌐 Connect With Me
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/abrar-ahmed-hridoy-934003252" target="_blank">
