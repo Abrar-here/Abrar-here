@@ -7,7 +7,7 @@ I'm an **undergraduate Computer Science student** passionate about **Cloud Compu
 ### 🚀 What I'm Working On
 - 🎮 Building **3D OpenGL projects** like **Bot Brawl** using Python and PyOpenGL  
 - 🤖 Training ML models and experimenting with AI-powered applications  
-- 🌐 Learning **SQL**, **PHP**, and **JavaScript** to become a full-stack developer  
+- 🌐 Learning **MERN** to become a full-stack developer  
 - ☁️ Exploring **AWS**, **GCP**, and **cloud-native tools** to deploy smart systems  
 - 🧠 Developing skills in **MLOps**, **DevOps**, and distributed computing  
 
