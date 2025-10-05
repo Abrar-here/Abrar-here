@@ -15,14 +15,14 @@ I'm an **undergraduate Computer Science student** passionate about **Cloud Compu
 
 ### 🧪 Projects
 - 🔫 **Bot Brawl** – a 3D shooter game built in PyOpenGL  
+- 🌐 **Pet Adoption** – small DBMS website built with HTML, CSS, JS, FLASK, PYTHON and SQL  
 - 🧠 ML Models – various machine learning experiments using scikit-learn and TensorFlow  
-- 🌐 Web Mini-Projects – small apps built while learning JS, PHP, and SQL  
 - ☁️ Cloud Labs – testing cloud tools, services, and deployments  
 
 ---
 
 ### 🎯 Learning Goals
-- ✅ Build a full-stack web app (PHP + MySQL + JS)  
+- ✅ Build a full-stack web app Pet Adoption (FLASK + PYTHON + MySQL + HTML + CSS + JS)  
 - ✅ Complete and polish Bot Brawl with better rendering and enemy AI  
 - ⏳ Learn React and connect frontend with a cloud-hosted backend  
 - ⏳ Integrate machine learning models into real-time apps  
